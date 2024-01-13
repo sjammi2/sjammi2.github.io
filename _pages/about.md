@@ -9,7 +9,8 @@ profile:
   image: shreyas_pfp_1.JPG 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> $$ \href{mailto:sjammi2@illinois.edu}{ Email: sjammi2@illinois.edu} $$ </p>
+    <p> Email: sjammi2@illinois.edu </p>
+    <p> Personal Email: shreyasjammi@gmail.com </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
