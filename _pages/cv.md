@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Engineering Physics, Minor in Computer Science, University of Illinois at Urbana-Champaign
 
 Work experience
 ======
@@ -44,34 +42,21 @@ collaborating with executives to create intuitive ML model prototyping interface
 0.81 F1 score, 98.7% up-time, and sub-150 ms response time on resource-constrained hardware 
   * Designed and deployed customer service chatbot using TF-IDF classification, effectively directing 200+ conference
 attendees to relevant FAQs and company resources 
-  
+ 
+
+Projects
+========
+* x, y, z
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages
+  * Python 
+  * C++ 
+  * FORTRAN 
+  * Julia
+  * Bash
+  * SQL
+  * Rust
+  * OpenCL/Cuda 
+  * Go
